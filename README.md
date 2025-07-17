@@ -41,10 +41,10 @@ To offer a 360° view of sales performance across:
 ### • Walkthrough of Key Visuals
 
 #### KPI Cards (Top Row)
-- 💰 **Revenue**: $24.9M  
-- 📈 **Profit**: $10.5M  
-- 📦 **Orders**: 25.2K  
-- 🔁 **Return Rate**: 2.2%
+- **Revenue**: $24.9M  
+- **Profit**: $10.5M  
+- **Orders**: 25.2K  
+- **Return Rate**: 2.2%
 
 #### Trend Analysis
 - **Monthly Revenue**: Upward trend with 3.31% MoM growth  
