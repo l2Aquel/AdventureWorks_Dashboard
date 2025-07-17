@@ -1,4 +1,4 @@
-# AdventureWorks Sales Insights Dashboard
+# AdventureWorks Dashboard
 
 ## 1. Project Title / Headline  
 A business intelligence dashboard that analyzes sales, product performance, customer demographics, and revenue metrics for the fictional AdventureWorks company. Built in Power BI, it helps decision-makers understand trends in profit, returns, customer value, and product demand across categories and regions.
