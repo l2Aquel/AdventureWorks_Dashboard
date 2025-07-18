@@ -84,5 +84,5 @@ To offer a 360° view of sales performance across:
 - **Revenue Per Customer**: Indicates potential for upselling or loyalty programs
 
 
-6. Screenshots / Demos  
+## 6. Screenshots / Demos  
 ![https://github.com/l2Aquel/AdventureWorks_Dashboard/blob/main/AdventureWorks_preview.png](AdventureWorks_preview.png)
