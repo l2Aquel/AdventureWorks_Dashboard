@@ -85,4 +85,4 @@ To offer a 360° view of sales performance across:
 
 
 6. Screenshots / Demos  
-https://github.com/l2Aquel/AdventureWorks_Dashboard/blob/main/AdventureWorks_preview.png
+![https://github.com/l2Aquel/AdventureWorks_Dashboard/blob/main/AdventureWorks_preview.png](AdventureWorks_preview.png)
